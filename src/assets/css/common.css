@@ -1,0 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.el-menu.el-menu--horizontal {
+    border-bottom: none !important;
+}
